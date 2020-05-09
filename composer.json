@@ -1,18 +1,19 @@
 {
-    "name": "yiisoft/_____",
+    "name": "jakharbek/yii-twig",
     "type": "library",
-    "description": "_____",
+    "description": "yii,twig",
     "keywords": [
-        "_____"
+        "Yii",
+        "Twig"
     ],
     "homepage": "https://www.yiiframework.com/",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/_____/issues?state=open",
+        "issues": "https://github.com/yiisoft/twig/issues?state=open",
         "forum": "https://www.yiiframework.com/forum/",
         "wiki": "https://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/_____"
+        "source": "https://github.com/yiisoft/yii-twig"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -25,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\_____\\": "src"
+            "Jakharbek\\Twig\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\_____\\Tests\\": "tests"
+            "Jakharbek\\Twig\\Tests\\": "tests"
         }
     },
     "extra": {
